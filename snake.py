@@ -107,4 +107,4 @@ while True:
   if len(segments)>0:
       x = snake.xcor()
       y = snake.ycor()
-      segments[0].goto(x,y)
+      segments[0].goto(x,y).m
